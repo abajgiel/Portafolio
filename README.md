@@ -1,2 +1,3 @@
-# fisicaysimulacion
-Simulaciones desarrolladas durante el primer semestre del 2025
+# Portafolio 
+González Flores Citlalli Abigail
+portafolio de evidencia de todos mis trabajos universitarios 
